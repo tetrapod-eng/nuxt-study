@@ -1,0 +1,6 @@
+@use "../../../assests/scss_variable/variable" as v;
+
+#mode {
+    width: v.$variable-common;
+    height: 0;
+}
